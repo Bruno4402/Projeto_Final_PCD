@@ -10,6 +10,6 @@ Repositório para armazenar meu projeto final da disciplina de Práticas em Ciê
 O objetivo deste projeto é automatizar operações utilizando Bras e Kets (notação de Dirac), fundamentais em cálculos de mecânica quântica e de computação quântica. 
 
 Entre as operações que esse projeto é capaz de executar, estão:
-* Conversão de Ket em Bra ($$\left(|\psi\rangle\right)^\dagger = \langle\psi|$$)
+* Conversão de Ket em Bra $$((|\psi\rangle)^\dagger = \langle\psi\vert$$)
 * Produto Interno ($\langle\phi|\psi\rangle$)
 * Produto Externo ($|\psi\rangle\langle\phi|$)
