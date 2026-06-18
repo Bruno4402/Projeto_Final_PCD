@@ -13,3 +13,7 @@ Entre as operações que esse projeto é capaz de executar, estão:
 * Conversão de Ket em Bra $$((|\psi\rangle)^\dagger = \langle\psi\vert$$)
 * Produto Interno ($\langle\phi|\psi\rangle$)
 * Produto Externo ($|\psi\rangle\langle\phi|$)
+
+## O arquivo:
+
+O arquivo que contém o projeto é o intitulado "Bras e Kets.ipynb", um notebook Jupyter. 
