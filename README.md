@@ -1,4 +1,7 @@
-<h1>Calculador de Bras e Kets</h1>
+![Ilum Escola de Ciência, CNPEM](https://pages.cnpem.br/workshopbioimagens/wp-content/uploads/sites/166/2023/06/logo-ilum.png)
+
+
+<h1 align="center">Calculador de Bras e Kets</h1>
 
 **Nome:** Bruno Bini Camargo  | **Turma:** T26 <br>
 **Instituição:** Ilum Escola de Ciência, CNPEM, Campinas
