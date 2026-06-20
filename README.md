@@ -34,10 +34,17 @@ O bra será representado como uma lista com uma sublista interna contendo os ele
 
 ### 🧮 Operações:
 
-Entre as operações que esse projeto é capaz de executar, estão:
-* **Conversão de ket em bra $$((|\psi\rangle)^\dagger = \langle\psi\vert$$):** operação adaga em um ket.
-* **Produto Interno ($\langle\phi|\psi\rangle$):** multiplicação componente a componente de um bra por um ket, resultando em um escalar.
-* **Produto Externo ($|\psi\rangle\langle\phi|$):** multiplicação de um ket por um bra, resultando em uma matriz.
+Esse projeto é capaz de executar dez operações:
+* **Soma de dois kets $|\psi\rangle + |\phi\rangle$**
+* **Produto de um ket por escalar $\lambda |\psi\rangle$**
+* **Conversão de ket em bra ($$|\psi\rangle)^\dagger = \langle\psi\vert$$:** operação adaga em um ket.
+* **Produto interno $\langle\phi|\psi\rangle$:** multiplicação componente a componente de um bra por um ket, resultando em um escalar.
+* **Módulo de um ket $\sqrt{\langle\psi|\psi\rangle}$:** raiz quadrada do produto interno de um ket por ele mesmo.
+* **Ket normalizado $\frac{|\psi\rangle}{\sqrt{\langle\psi|\psi\rangle}}$:** divisão de cada componente do ket pelo módulo, resultando em um ket de módulo 1. 
+* **Produto externo $|\psi\rangle\langle\phi|$:** multiplicação de um ket por um bra, resultando em uma matriz.
+* **Aplicação de um operador em um ket $\mathit {Â}|\phi\rangle$:** multiplicação de uma matriz (operador) por um ket.
+* **Elemento de matriz $\langle\psi|\mathit {Â}|\phi\rangle$:** operação que posiciona um operador Â entre um bra e um ket, resultando em um escalar.
+* **Valor esperado $\langle\psi|\mathit {Â}|\psi\rangle$:** caso particular de elemento de matriz calculado utilizando o mesmo ket em ambos os lados da operação.
 
 ## :open_file_folder: Arquivos do repositório:
 
@@ -48,7 +55,8 @@ Entre as operações que esse projeto é capaz de executar, estão:
 
 ## 🖥️ Ferramentas usadas no projeto:
 
-
+-
+-
 
 
 ## Agradecimentos:
